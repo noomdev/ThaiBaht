@@ -1,14 +1,12 @@
-ThaiBaht
-========
+###ThaiBaht
 
 Covert number to Baht Text
 
+===============================
 
-
-Software Requirement
-====================
+###Software Requirement
 Microsoft Visual Studio 2005
 
-Language
-========
+===============================
+###Language
 Visual Basic .NET
